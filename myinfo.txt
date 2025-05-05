@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hello, my name is developer 2, I am from Delhi, I like movies
+=======
+Hello, my name is developer1, I am from Bangalore, I like movies
+>>>>>>> dev1branch
